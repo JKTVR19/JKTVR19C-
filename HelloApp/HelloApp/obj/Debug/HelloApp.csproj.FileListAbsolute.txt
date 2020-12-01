@@ -1,0 +1,7 @@
+D:\JKTVR19C#\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+D:\JKTVR19C#\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+D:\JKTVR19C#\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+D:\JKTVR19C#\HelloApp\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+D:\JKTVR19C#\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+D:\JKTVR19C#\HelloApp\HelloApp\obj\Debug\HelloApp.pdb

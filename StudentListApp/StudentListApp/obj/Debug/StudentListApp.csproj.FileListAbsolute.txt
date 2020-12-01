@@ -1,0 +1,6 @@
+D:\JKTVR19C#\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe.config
+D:\JKTVR19C#\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe
+D:\JKTVR19C#\StudentListApp\StudentListApp\bin\Debug\StudentListApp.pdb
+D:\JKTVR19C#\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\StudentListApp\StudentListApp\obj\Debug\StudentListApp.exe
+D:\JKTVR19C#\StudentListApp\StudentListApp\obj\Debug\StudentListApp.pdb

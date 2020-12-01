@@ -1,0 +1,7 @@
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\obj\Debug\ClassAuthorApp.csprojAssemblyReference.cache
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\obj\Debug\ClassAuthorApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\bin\Debug\ClassAuthorApp.exe.config
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\bin\Debug\ClassAuthorApp.exe
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\bin\Debug\ClassAuthorApp.pdb
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\obj\Debug\ClassAuthorApp.exe
+D:\JKTVR19C#\ClassAuthorApp\ClassAuthorApp\obj\Debug\ClassAuthorApp.pdb

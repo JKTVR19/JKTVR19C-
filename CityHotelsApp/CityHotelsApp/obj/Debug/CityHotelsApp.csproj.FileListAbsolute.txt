@@ -1,0 +1,6 @@
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\obj\Debug\CityHotelsApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\bin\Debug\CityHotelsApp.exe.config
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\bin\Debug\CityHotelsApp.exe
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\bin\Debug\CityHotelsApp.pdb
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\obj\Debug\CityHotelsApp.exe
+D:\JKTVR19C#\CityHotelsApp\CityHotelsApp\obj\Debug\CityHotelsApp.pdb

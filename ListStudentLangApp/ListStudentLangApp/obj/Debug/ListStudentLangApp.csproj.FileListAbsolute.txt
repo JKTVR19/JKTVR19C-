@@ -1,0 +1,7 @@
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\bin\Debug\ListStudentLangApp.exe.config
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\bin\Debug\ListStudentLangApp.exe
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\bin\Debug\ListStudentLangApp.pdb
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\obj\Debug\ListStudentLangApp.csprojAssemblyReference.cache
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\obj\Debug\ListStudentLangApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\obj\Debug\ListStudentLangApp.exe
+D:\JKTVR19C#\ListStudentLangApp\ListStudentLangApp\obj\Debug\ListStudentLangApp.pdb

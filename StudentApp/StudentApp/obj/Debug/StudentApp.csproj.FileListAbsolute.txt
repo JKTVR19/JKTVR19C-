@@ -1,0 +1,7 @@
+D:\JKTVR19C#\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+D:\JKTVR19C#\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+D:\JKTVR19C#\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+D:\JKTVR19C#\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+D:\JKTVR19C#\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\JKTVR19C#\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+D:\JKTVR19C#\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
